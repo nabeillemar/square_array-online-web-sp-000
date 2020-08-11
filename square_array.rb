@@ -5,4 +5,4 @@ def square_array(array)
   # your code here
 end
 
-puts square_array[1, 2, 3]
+print square_array[1, 2, 3]
